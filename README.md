@@ -33,42 +33,27 @@ SmartSpeaker
     Setter
 
 ## PANDUAN PROGRAM
-"==============================================\n";
-"||              COMMAND LIST                ||\n";
-"||                 +INPUT                   ||\n";
-"||                 +SHOW                    ||\n";
-"||                 +UPDATE                  ||\n";
-"||                 +DELETE                  ||\n";
-"||                 +SEARCH                  ||\n";
-"||                 +HELP                    ||\n";
-"||                                          ||\n";
-"||+ FORMAT INPUT :                          ||\n";
-"||INPUT tipe(LIGHT/THERMO/SPEAKER) id nama  ||\n";
-"||value                                     ||\n";
-"||                                          ||\n";
-"||+ FORMAT SHOW :                           ||\n";
-"||SHOW                                      ||\n";
-"||                                          ||\n";
-"||+ FORMAT UPDATE :                         ||\n";
-"||UPDATE id nama value                      ||\n";
-"||                                          ||\n";
-"||+ FORMAT DELETE :                         ||\n";
-"||DELETE id                                 ||\n";
-"||                                          ||\n";
-"||+ FORMAT SEARCH :                         ||\n";
-"||SEARCH id                                 ||\n";
-"||                                          ||\n";
-"||+ FORMAT HELP :                           ||\n";
-"||HELP                                      ||\n";
-"==============================================\n";
+###FORMAT INPUT :
+INPUT tipe(LIGHT/THERMO/SPEAKER) id nama value
+
+###FORMAT SHOW :
+SHOW
+
+###FORMAT UPDATE :
+UPDATE id nama value
+
+###FORMAT DELETE :
+DELETE id
+
+###FORMAT SEARCH :
+SEARCH id
+
+###FORMAT HELP :
+HELP
 
 ## DOKUMENTASI
 ### CPP
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/cpp/SS1.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/cpp/SS2.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/cpp/SS3.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/cpp/dokumentasi/SS1.png" />
 
 ### Python 
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/python/SS1.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/python/SS2.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/dokumentasi/python/SS3.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/python/dokumentasi/SS1.png" />
